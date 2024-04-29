@@ -1,0 +1,16 @@
+[href="https://www.youtube.com/"]{color: rgb(255, 0, 0);
+
+}
+[href="https://validator.w3.org/"]{color:rgb(255, 0, 0);
+text-decoration: none;
+}
+ul+p{font-size: 24px;
+color: rgb(207, 0, 220);
+}
+ul {
+  list-style: none;  
+}
+
+.head {
+    color: blue;
+}
